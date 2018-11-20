@@ -1,0 +1,29 @@
+{
+  "name": "mavennet",
+  "version": "1.0.0",
+  "description": "test 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mavennet"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "angela lee",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-router": "^7.4.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
